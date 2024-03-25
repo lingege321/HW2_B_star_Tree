@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="120" height="109" stroke="blue" stroke-width="3" fill-opacity="0"/>
+<rect x="0" y="13" width="56" height="13" stroke="red" stroke-width="3"/>
+<rect x="56" y="0" width="37" height="11" stroke="red" stroke-width="3"/>
+<rect x="48" y="38" width="16" height="14" stroke="red" stroke-width="3"/>
+<rect x="36" y="53" width="11" height="4" stroke="red" stroke-width="3"/>
+<rect x="16" y="72" width="17" height="11" stroke="red" stroke-width="3"/>
+<rect x="67" y="66" width="14" height="40" stroke="red" stroke-width="3"/>
+<rect x="106" y="31" width="14" height="49" stroke="red" stroke-width="3"/>
+<rect x="48" y="26" width="19" height="11" stroke="red" stroke-width="3"/>
+<rect x="0" y="60" width="29" height="11" stroke="red" stroke-width="3"/>
+<rect x="0" y="72" width="16" height="11" stroke="red" stroke-width="3"/>
+<rect x="36" y="26" width="11" height="26" stroke="red" stroke-width="3"/>
+<rect x="81" y="11" width="11" height="33" stroke="red" stroke-width="3"/>
+<rect x="54" y="86" width="11" height="12" stroke="red" stroke-width="3"/>
+<rect x="81" y="90" width="37" height="18" stroke="red" stroke-width="3"/>
+<rect x="18" y="38" width="18" height="20" stroke="red" stroke-width="3"/>
+<rect x="17" y="84" width="18" height="20" stroke="red" stroke-width="3"/>
+<rect x="33" y="0" width="8" height="11" stroke="red" stroke-width="3"/>
+<rect x="93" y="0" width="13" height="29" stroke="red" stroke-width="3"/>
+<rect x="36" y="72" width="18" height="35" stroke="red" stroke-width="3"/>
+<rect x="36" y="58" width="31" height="14" stroke="red" stroke-width="3"/>
+<rect x="107" y="0" width="13" height="31" stroke="red" stroke-width="3"/>
+<rect x="0" y="0" width="33" height="13" stroke="red" stroke-width="3"/>
+<rect x="54" y="72" width="13" height="14" stroke="red" stroke-width="3"/>
+<rect x="0" y="84" width="17" height="13" stroke="red" stroke-width="3"/>
+<rect x="93" y="67" width="13" height="23" stroke="red" stroke-width="3"/>
+<rect x="67" y="11" width="13" height="31" stroke="red" stroke-width="3"/>
+<rect x="0" y="38" width="18" height="9" stroke="red" stroke-width="3"/>
+<rect x="67" y="45" width="21" height="21" stroke="red" stroke-width="3"/>
+<rect x="93" y="29" width="12" height="37" stroke="red" stroke-width="3"/>
+<rect x="0" y="48" width="18" height="11" stroke="red" stroke-width="3"/>
+<rect x="42" y="0" width="11" height="11" stroke="red" stroke-width="3"/>
+<rect x="0" y="26" width="35" height="11" stroke="red" stroke-width="3"/>
+<rect x="56" y="11" width="11" height="8" stroke="red" stroke-width="3"/>
+</svg>
